@@ -15,7 +15,7 @@ export default function Header() {
     });
     return (
         <Flex
-            as="header"
+            as="div"
             w="100%"
             h="20"
             mt="4"
